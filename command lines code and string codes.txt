@@ -1,0 +1,23 @@
+put.console >> "text\n" >> code 
+
+[
+    [
+        tokens[0] == 'put.console'
+    ]
+]
+
+put.console >> "Hello World\n" >> code 
+
+[
+    [
+        string[0] == 'Hello World'
+    ]
+]
+
+put.console >> "Good Bye World\n" >> code
+
+[
+    [
+        string[0] == 'Good Bye World'
+    ]
+]

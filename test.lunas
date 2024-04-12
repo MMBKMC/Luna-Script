@@ -1,0 +1,14 @@
+#Luna Script
+
+int main()
+    {
+    put.console >> "Hello World/n" >>
+    put.console >> "Good Bye World/n" >>
+
+    X = Hello World
+    Y = Hello World
+    A = Good Bye World
+
+        FLOAT = A
+    }
+    
